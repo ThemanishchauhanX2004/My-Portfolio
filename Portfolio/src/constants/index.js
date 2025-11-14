@@ -118,28 +118,6 @@ const projects = [
     demo_link: "https://expense-tracker-2-4584.onrender.com",
   },
   {
-    name: "E-Commerce Platform",
-    description:
-      "A full-stack e-commerce app featuring real-time stock tracking, secure checkout, user authentication, and an advanced admin panel. Tech: React, Node.js, MongoDB, JWT.",
-    tags: [
-      {
-        name: "ECommerce",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "NodeJS",
-        color: "green-text-gradient",
-      },
-      {
-        name: "FullStack",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: jobit,
-    source_code_link: "https://github.com/ThemanishchauhanX2004/E-COM",
-    demo_link: "https://e-commerce-2-tsla.onrender.com",
-  },
-  {
     name: "Movie App",
     description:
       "Discover trending movies & TV shows via TMDB API. Built with React & Tailwind CSS, featuring interactive UI, carousels & reusable components.",
@@ -160,6 +138,28 @@ const projects = [
     image: movies,
     source_code_link: "https://github.com/ThemanishchauhanX2004/Movie-App",
     demo_link: "https://movieapp-f43e.onrender.com",
+  },
+  {
+    name: "E-Commerce Platform",
+    description:
+      "A full-stack e-commerce app featuring real-time stock tracking, secure checkout, user authentication, and an advanced admin panel. Tech: React, Node.js, MongoDB, JWT.",
+    tags: [
+      {
+        name: "ECommerce",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "NodeJS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "FullStack",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: jobit,
+    source_code_link: "https://github.com/ThemanishchauhanX2004/E-COM",
+    demo_link: "https://e-commerce-2-tsla.onrender.com",
   },
 ];
 
